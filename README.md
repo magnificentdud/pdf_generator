@@ -1,12 +1,12 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Marvin%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Woochan%20Github!&fontSize=90" />	
 </div>
 
-# [1] Header 
+# PDF GENERATOR
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Marvin%20Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Woochan%20Github!&fontSize=90)
 
-wave (default)
+<!-- wave (default)
 egg
 shark
 slice
@@ -15,34 +15,31 @@ soft
 rounded
 cylinder
 waving
-transparent
+transparent -->
 
 
-# 📚 Tech Stack 📚
-# ✨ Platforms & Languages ✨
+# 📚 making pdf 📚
+#  Platforms & Languages 
+<!-- 
+<img src="https://img.shields.io/badge/Python-002323?style=flat&logo=Python&logoColor=red"/> -->
 
-<img src="https://img.shields.io/badge/Python-002323?style=flat&logo=Python&logoColor=red"/>
-
-<img src="https://img.shields.io/badge/C++-004713?style=flat&logo=C&logoColor=yellow"/>
+<!-- <img src="https://img.shields.io/badge/C++-004713?style=flat&logo=C&logoColor=yellow"/> -->
 
 <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Conda-Forge&logoColor=white"/>
 
 
-### [2] source code
-```python
-import os
-print('hello')
-```
+### [1] source code
+used python language to generate
 
-### [3] bullet point
-* bullet point
-    * abc
-        * 123
+### [2] main points
+* put information
+    * save pdf
+        * use it!
 
 
-### [4] link 
-[Google](http://usaco.org/)
+### [3] github link
+[Github](http://https://github.com/magnificentdud/pdf_generator/blob/main/README.md/)
 
-### [5] image 
+### [4] gold prize 
 ![gold](/resource/gold.png)
 
