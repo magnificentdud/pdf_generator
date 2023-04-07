@@ -1,0 +1,56 @@
+{
+	"image": [
+		{
+			"name": "gold.png",
+			"loc": [
+				100,
+				100
+			],
+			"width": 100,
+			"height": 100
+		},
+		{
+			"name": "logo.jpg",
+			"loc": [
+				100,
+				500
+			],
+			"width": 150,
+			"height": 150
+		}
+	],
+	"text": [
+		{
+			"text": "Certificate of Outstanding Achivement",
+			"color": [
+				0,
+				0,
+				0
+			],
+			"font": [
+				"Helvetica",
+				15
+			],
+			"loc": [
+				100,
+				50
+			]
+		},
+		{
+			"text": "The Society for in vitro biology",
+			"color": [
+				255,
+				0,
+				0
+			],
+			"font": [
+				"Helvetica",
+				20
+			],
+			"loc": [
+				50,
+				400
+			]
+		}
+	]
+}
